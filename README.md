@@ -1,7 +1,7 @@
 use following credentials
 
-userId : mmm@gmail.com
-pwd : mmmmmm
+userId :mnikks01@gmail.com
+pwd :12345678
 
 user activities
 -----------------------------
